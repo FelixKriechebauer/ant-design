@@ -35,8 +35,8 @@ ReactDOM.render(
       showIcon
     />
     <Alert
-      message="Warning"
-      description="This is a warning notice about copywriting."
+      message="Obacht!"
+      description="da ist was schief gelaufen."
       type="warning"
       showIcon
     />
